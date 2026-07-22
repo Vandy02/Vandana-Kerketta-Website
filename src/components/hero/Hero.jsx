@@ -13,7 +13,7 @@ export const Hero = () => {
                     user-focused applications. Based in the
                     United States, I'm always excited to connect
                     and collaborate—feel free to reach out!</p>
-                <a href="https://drive.google.com/file/d/1Vj6BI9r1L2yq2cwje0-MZF7LDxji8JUk/view?usp=sharing" className={styles.contactBtn}> My Resume </a>
+                <a href="https://drive.google.com/file/d/1GcOhiBWniuyDJ7zOKyDu0QV9EwvWclM7/view?usp=sharing" className={styles.contactBtn}> My Resume </a>
             </div>
             <img src={getImageUrl("hero/heroImage.png")} alt="heroImage" className={styles.heroImg} />
             <div className={styles.topBlur}></div>
